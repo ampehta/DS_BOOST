@@ -1,0 +1,102 @@
+title,date
+Locality Sensitive Hashing, February 25 2021
+"BERT’s Common Sense, or Lack Thereof", February 18 2021
+GPT from Scratch, February 15 2021
+NLI Models as Zero-Shot Classifiers, February 10 2021
+Keyword Extraction with BERT, February 05 2021
+NLG with GPT-2, February 01 2021
+Rejection Sampling, January 25 2021
+Attention is All You Need, January 20 2021
+Attention Mechanism, January 15 2021
+Plotting Prime Numbers, January 10 2021
+(Attempt at) Knowledge Distillation, January 08 2021
+Fast Gradient Sign Method, January 05 2021
+Reflections and Expectations, January 01 2021
+Better seq2seq, December 27 2020
+Introduction to seq2seq models, December 20 2020
+Neural Style Transfer, December 10 2020
+GAN in PyTorch, November 30 2020
+Monte Carlo Coin Toss, November 23 2020
+InceptionNet in PyTorch, November 14 2020
+VGG PyTorch Implementation, November 01 2020
+PyTorch RNN from Scratch, October 25 2020
+"PyTorch, From Data to Modeling", October 20 2020
+PyTorch Tensor Basics, October 10 2020
+Data Viz Basics with Python, September 28 2020
+BLEU from scratch, September 21 2020
+A PyTorch Primer, September 14 2020
+"Beta, Bayes, and Multi-armed Bandits", August 28 2020
+Django and Summer Internship, August 15 2020
+Gaussian Mixture Models, August 01 2020
+Gamma and Zeta, July 28 2020
+Text Preprocessing with Blog Post Data, July 22 2020
+Docker Blitz, July 17 2020
+Word2vec from Scratch, July 13 2020
+Complex Fibonacci, July 10 2020
+Introduction to tf-idf, July 05 2020
+Gaussian Process Regression, July 02 2020
+Traveling Salesman Problem with Genetic Algorithms, June 28 2020
+Revisiting Basel with Fourier, June 25 2020
+Riemann Zeta and Prime Numbers, June 23 2020
+On BFS and DFS, June 20 2020
+"Newton-Raphson, Secant, and More", June 16 2020
+The Gibbs Sampler, June 12 2020
+Scikit-learn Sprint, June 09 2020
+Introduction to PySpark, June 05 2020
+Dissecting LSTMs, June 02 2020
+Scikit-learn Pipelines with Titanic, May 30 2020
+Natural Gradient and Fisher, May 27 2020
+Blog Workflow Cleanup, May 23 2020
+R Tutorial (4), May 22 2020
+SQL Basics with Pandas, May 19 2020
+R Tutorial (3), May 10 2020
+Learning C, May 05 2020
+Understanding the  Leibniz Rule, May 01 2020
+R Tutorial (2), April 25 2020
+R Tutorial (1), April 16 2020
+Fisher Score and Information, April 11 2020
+On Expectations and Integrals, April 05 2020
+Stirling Approximation, April 01 2020
+Principal Component Analysis, March 22 2020
+Fourier Series, March 19 2020
+The Math Behind GANs, March 15 2020
+MLE and KL Divergence, March 09 2020
+Contributing Open Source, March 04 2020
+First Date with Flask, February 28 2020
+My First GAN, February 25 2020
+A Step Up with  Variational Autoencoders, February 22 2020
+So What are Autoencoders?, February 18 2020
+A Simple Autocomplete Model, February 10 2020
+A Brief Introduction to Recurrent Neural Networks, February 08 2020
+Building Neural Network From Scratch, February 05 2020
+Convolutional Neural Network with Keras, February 01 2020
+Writing with Typora, January 26 2020
+Convex Combinations and MAP, January 25 2020
+The Exponential Family, January 22 2020
+Bayesian Linear Regression, January 20 2020
+Naive Bayes Model From Scratch, January 17 2020
+First Neural Network with Keras, January 15 2020
+A Short R Tutorial, January 09 2020
+Conda Virtual Environments with Jupyter, January 07 2020
+An Introduction to Markov Chain Monte Carlo, January 02 2020
+Logistic Regression Model from Scratch, December 31 2019
+Maximum A Posteriori Estimation, December 28 2019
+k-Nearest Neighbors Algorithm from Scratch, December 25 2019
+Demystifying Entropy (And More), December 21 2019
+Moments in Statistics, December 16 2019
+Dissecting the Gaussian Distribution, December 12 2019
+Recommendation Algorithm with SVD, December 09 2019
+"Linear Regression, in Two Ways", December 06 2019
+Wonders of Monte Carlo, December 03 2019
+Likelihood and Probability, December 01 2019
+Using Jupyter Notebook with Jekyll, November 30 2019
+A sneak peek at Bayesian Inference, November 30 2019
+Experimenting with Jupyter Notebook, November 29 2019
+"Basel, Zeta, and some more Euler", November 26 2019
+"0.5!: Gamma Function, Distribution, and More", November 22 2019
+How lucky was I on my shift?, November 20 2019
+The Magic of Euler’s Identity, November 17 2019
+Markov Chain and Chutes and Ladders, November 16 2019
+16-inch MacBook Pro Announced, November 14 2019
+Understanding PageRank, November 13 2019
+A Self-Created Curriculum, November 07 2019
